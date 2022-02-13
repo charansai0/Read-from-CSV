@@ -47,6 +47,6 @@ print("rows",len(df.axes[1]))
 
 ~~~
 ## OUTPUT:
-
+![output](https://github.com/charansai0/Read-from-CSV/blob/main/1111.png?raw=true)
 
 ## RESULT:
