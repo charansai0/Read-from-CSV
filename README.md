@@ -50,3 +50,4 @@ print("rows",len(df.axes[1]))
 ![output](https://github.com/charansai0/Read-from-CSV/blob/main/1111.png?raw=true)
 
 ## RESULT:
+Therefore the program is successfully executed to read csv file and access the data in it.
